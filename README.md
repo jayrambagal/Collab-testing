@@ -1,5 +1,5 @@
-# Collab-testing
-Just Testing Purpose
+# Wether App
+Basic Web page for learning API-Application Program Interface.
+using HTML,CSS and Javascript.[here](collab-testing.vercel.app)
 
-Im here now [dipanshuSendre](https://github.com/blackstormcoder)
-Im here too [Jayram_bagal](https://github.com/jayrambagal)
+
